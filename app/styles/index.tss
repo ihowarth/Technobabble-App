@@ -1,0 +1,22 @@
+"#mainWin" : {
+	backgroundColor: "#fff"
+},
+
+"#technobabbleButtonView" : {
+	height : 200,
+	width : 200,
+	borderRadius: 100,
+	borderWidth: 5,
+	borderColor: "#000",
+	backgroundColor: "#f00"
+},
+
+"#technobabbleLabel" : {
+	font : {
+		fontSize: 25,
+		fontWeight: "bold"
+	},
+	color: "#fff",
+	touchEnabled: false,
+	text: "Technobabble!"	
+}

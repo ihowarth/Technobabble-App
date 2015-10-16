@@ -1,0 +1,7 @@
+<Alloy>
+	<Window id="mainWin">
+		<View id="technobabbleButtonView">
+			<Label id="technobabbleLabel"/>
+		</View>
+	</Window>
+</Alloy>
