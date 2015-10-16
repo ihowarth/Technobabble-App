@@ -1,1 +1,1 @@
-Alloy.Globabls.Technobabble = require("Technobabble");
+Alloy.Globals.Technobabble = require("Technobabble");
